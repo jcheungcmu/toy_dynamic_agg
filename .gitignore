@@ -1,0 +1,23 @@
+# Compiled host executable
+/main
+
+# Compiled shared libraries and object files
+*.so
+*.so.*
+*.o
+*.obj
+*.a
+*.out
+*.d
+
+# FPGA / oneAPI build directories and artifacts
+*.prj/
+*.aocx
+*.aocr
+*.aoco
+
+# Build logs and Quartus Programmer artifacts
+logs/
+*.log
+*.log.save
+quartus_pgmw.*
